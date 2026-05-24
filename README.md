@@ -1,4 +1,5 @@
-
+##Live demo
+https://inventorymanagement-ruby.vercel.app/
 ## Screenshots
 ### Product Listing
 <img width="1919" height="881" alt="image" src="https://github.com/user-attachments/assets/3fd6ddcf-916b-45af-8d05-716fde784a5c" />
