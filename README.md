@@ -1,4 +1,4 @@
-##Live demo
+Live demo
 https://inventorymanagement-ruby.vercel.app/
 ## Screenshots
 ### Product Listing
